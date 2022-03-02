@@ -18,3 +18,5 @@
 [![linkedin](https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/rochblondiaux)
 
 
+## :chart_with_upwards_trend: Stats
+![Roch Blondiaux's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochblondiaux&count_private=true&show_icons=true&theme=radical)
