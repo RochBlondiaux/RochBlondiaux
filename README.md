@@ -6,7 +6,7 @@
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![C](https://img.shields.io/badge/C-Intermediate-lightgrey)
-* 👩‍💻 I'm currently working at [@Meta-Crafters](https://github.com/Meta-Crafters)
+* 👩‍💻 I'm currently working at ??
 * 🧠 I'm currently learning **C** and **AngularJS**
 * 💬 Ask me about your existential questions
 * ⚡️ Web3 enthusiast
