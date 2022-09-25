@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![C](https://img.shields.io/badge/C-Intermediate-lightgrey)
 * 👩‍💻 I'm currently leading SkuxxBuilds
-* 🧠 I'm currently learning **C** and **AngularJS**
+* 🧠 I'm currently learning **Electron** and **React**
 * 💬 Ask me about your existential questions
 * ⚡️ Web3 enthusiast
 
