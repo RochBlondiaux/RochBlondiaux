@@ -6,7 +6,7 @@
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![C](https://img.shields.io/badge/C-Intermediate-lightgrey)
-* 👩‍💻 I'm currently creating a 2d platformer
+* 👩‍💻 I'm currently working at [Lucille Games](https://www.lucillegames.com/)
 * 🧠 I'm currently learning **Electron** and **React**
 * 💬 Ask me about your existential questions
 * ⚡️ Web3 enthusiast
