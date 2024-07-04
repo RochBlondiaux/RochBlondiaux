@@ -9,7 +9,6 @@
 * 👩‍💻 I'm currently working at ![@RivrsMc](https://github.com/RivrsMc)
 * 🧠 I'm currently learning **Electron** and **React**
 * 💬 Ask me about your existential questions
-* ⚡️ Web3 enthusiast
 
 
 
